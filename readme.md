@@ -6,6 +6,8 @@ before diving in!
 
 ## Submission
 
+This assignment is due at **11:59pm on Feb 23rd, 2022**.
+
 Please submit your assignment by emailing a zip or tar file containing all source code to
 optmlclass.spring.2022+PA1@gmail.com. Make sure to incude your name and PA1 in the subject line.
 
