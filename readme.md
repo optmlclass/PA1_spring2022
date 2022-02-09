@@ -1,8 +1,8 @@
 # Programming  Assignment 1: Automatic Differentation
 
 Note: this assignment is complicated! Do not start it at the last minute! You may
-want to read over the code to get an understanding of what you should be doing
-before diving in!
+want to read over the code and/or chapter 7 of the course notes to get an understanding of
+what you should be doing before diving in!
 
 ## Submission
 
