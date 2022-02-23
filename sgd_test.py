@@ -75,4 +75,4 @@ def train_mnist(learning_rate, epochs, mnist):
 
 if __name__ == '__main__':
     mnist_data = load_mnist()
-    train_mnist(0.0, 2, mnist_data)
+    train_mnist(0.01, 2, mnist_data)
